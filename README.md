@@ -6,5 +6,7 @@ Goal:
 Analysis of employment trends by sector, region and education.
 
 Figures and insights:
-Виж анализа тук → [INSIGHTS](reports/INSIGHTS.md)
+- Read insights → [INSIGHTS](reports/INSIGHTS.md)
+- Read report → [REPORT](reports/REPORT.md)
+
 
