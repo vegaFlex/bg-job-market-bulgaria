@@ -1,0 +1,16 @@
+
+venv/
+.env
+pycache/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+.history/
+
+# venv → виртуална среда. Не се качва.
+# .env → API ключове. Не се качват.
+# pycache и pyc → временни Python файлове.
+# .ipynb_checkpoints → автоматични notebook бекъпи.
+# data/raw и processed → големи файлове. GitHub ги блокира.
+# .history → временни версии от VS Code.
